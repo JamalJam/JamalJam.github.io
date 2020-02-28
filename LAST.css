@@ -1,0 +1,158 @@
+body{
+	background-color:#be8abf;
+	background-color:#be8abf;
+	
+}
+.divmain{
+	
+	
+	height: 500px;
+	margin-bottom:50px;
+	margin-left:120px;
+	 overflow-x:hidden;
+	
+}
+#fixed{
+	
+	position:fixed;
+	width:95px;
+	height: 450px;
+	margin-left:0px;
+}
+.silka{
+	height: 85px;
+}
+#begininfo{
+	color:#3e206d;
+	text-shadow: black 9px 10px 15px;
+	padding-top:10px;
+	height:220px;
+	font-size:150px;
+	display:flex;
+	justify-content: center;
+	font-family: cursive;
+	
+}
+#invis{
+	position:fixed;
+	visibility:hidden;
+   display: flex;
+  align-items: center;
+  justify-content: center;
+	height:100%;
+	width:100%;
+
+}
+
+#exinfo{
+	border: double 3px black;
+	position:fixed;
+	visibility:hidden;
+	background-color:#40e0d0;
+   display: flex;
+  align-items: center;
+  justify-content:flex;
+	height:40%;
+	width:30%;
+	 overflow-x:hidden;
+	
+}
+
+.inwindow{
+	border-radius: 50px;
+	display:flex;
+	flex-direction:column;
+	
+	
+}
+#close{
+	border:solid 1px black;
+height: 30px;
+background-color:#fdd365;
+}
+
+
+#space1{
+	margin-top:30%;
+	font-family:Impact, fantasy;
+	font-size:20px;
+	
+	
+}
+#space{
+	text-shadow: black 0 0 5px;
+	color:#9818d6;
+	text-align:center;
+	font-size: 40px;
+	font-family: Courier , Georgia, Serif;
+font-weight:bold;
+}
+#textmain{
+	text-align:center;
+	font-size: 40px;
+font-family:fantasy;
+}
+#maintext{
+	color:#090057;
+	text-shadow: white 0 0px 15px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.turn{
+	
+	 transform: rotate(330deg);
+	 height: 120px;
+}
+.ph1{
+	height: 150px;
+	
+}
+#row{
+	
+	 display: flex;
+flex-direction:column;
+  justify-content:flex;
+}
+
+.ph2{
+	height:220px;
+	
+}
+.ph3{
+	width: 270px;
+	transform: rotate(360deg);
+}
+
+#maintext1{
+	color:#090057;
+	text-shadow: white 0 0px 15px;
+	display:flex;
+	flex-direction:column;
+	justify-content:space-between;
+}
+
+
+
+
+
+.row1{
+	
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+
+#maintext2{
+	color:#090057;
+	text-shadow: white 0 0px 15px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	height:400px;
+}
+#f1{
+	height:240px;
+}
+
+
